@@ -23,10 +23,13 @@ This really helps the customer to determine teh score and helps the sellers to g
 
 #### Batch 012 - Group 006
 - **Kenneth Chondro**
+
 [![](https://user-images.githubusercontent.com/38784573/182612774-00f8272f-86b3-4694-ae17-e123ba60c08b.png)](https://github.com/KennethChondro "https://github.com/KennethChondro") [![](https://user-images.githubusercontent.com/38784573/182613879-fce38379-e549-4fb3-bb74-28e593b012e1.png)](https://linkedin.com/in/kenneth-chondro "https://linkedin.com/in/kenneth-chondro")
 - **Arnaz Tejakusuma**
+
 [![](https://user-images.githubusercontent.com/38784573/182612774-00f8272f-86b3-4694-ae17-e123ba60c08b.png)](https://github.com/arnaztejakusuma "https://github.com/arnaztejakusuma") [![](https://user-images.githubusercontent.com/38784573/182613879-fce38379-e549-4fb3-bb74-28e593b012e1.png)](https://linkedin.com/in/arnaztejakusuma "https://linkedin.com/in/arnaztejakusuma")
 - **Luvi Puspitasari**
+
 [![](https://user-images.githubusercontent.com/38784573/182612774-00f8272f-86b3-4694-ae17-e123ba60c08b.png)](https://github.com/LUVIPUSPITA "https://github.com/LUVIPUSPITA") [![](https://user-images.githubusercontent.com/38784573/182613879-fce38379-e549-4fb3-bb74-28e593b012e1.png)](https://github.com/LUVIPUSPITA "https://github.com/LUVIPUSPITA")
 
 
